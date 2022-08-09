@@ -12,4 +12,4 @@ class Config(object):
     OWNER_ID = int(os.environ.get("OWNER_ID", None))
     JTU_ENABLE = os.environ.get("JTU_ENABLE", False)
     JTU_ID = int(os.environ.get("JTU_ID", False))
-    JTU_LINK = os.environ.get("JTU_LINK", "t.me/PutLinkHereNIbbaElseHowPeopleWillKnow")
+    JTU_LINK = os.environ.get("JTU_LINK", "t.me/XteamBD")
